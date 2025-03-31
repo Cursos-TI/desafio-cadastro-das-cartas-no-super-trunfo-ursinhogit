@@ -40,6 +40,7 @@ int main() {
 
     printf("digite pib1,pib2:\n");
     scanf("%f",&pib1, &pib2);
+    
 
     printf("digite pontosTuristicos1, pontosTuristicos2:\n");
     scanf("%d",&PontosTuristicos1, &pontosTuristicos2);  
@@ -49,6 +50,6 @@ int main() {
     printf("carta1:%d,carta2:%d - estado1:%s,estado2:%s - código1:%s,código2:%s - cidade1:%s,cidade2:%s" ,carta1,carta2,código1,código2,Cidade1,Cidade2);
     printf("população1:%d, população2:%d - área1:%f, área2:%f- pib1:%f,pib2:%f - PontosTurísticos1:%d,PontosTurísticos1:%d", população1,população2,área1,área2,pib1,pib2,PontosTuristicos);
 
-
+     
     return 0;
 }
