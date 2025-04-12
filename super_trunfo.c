@@ -11,7 +11,7 @@ int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.]
     char estado,codigodaCidade; 
-    int população,PontosTuristicos;
+    int populacao,PontosTuristicos;
     float área,pib,Cartas,densidadepopulacional,pibPerCapito;
      
     // Cadastro  char carta[4],carta[4] estado[80], código [20] ,Cidade[80];
@@ -58,33 +58,33 @@ int main() {
       float população1 =1232500;
       float quociente = (float)área1/população1;
 
-      printf("Quociente: %f.2f\n"quociente);
+      printf("Quociente: %f.2f\n quociente");
 
       float área2 = 1200.25 ;
       float  população2=6748000;
       float quociente = (float)área2 /população2;
 
-      printf("Quociente:%f.2f\n"quociente);
+      printf("Quociente:%f.2f\n quociente");
 
       float pib1 = 699.28 ;
       float população1 =1232500;
       float quociente = (float)pib1/população1;
 
-      printf("Quociente:%f.2f\n"quociente);
+      printf("Quociente:%f.2f\n quociente");
 
       float pib2 = 300.50 ;
       float população2 =1232500;
       float quociente = (float)pib2/população2;
 
-      printf("Quociente:%f.2f\n"quociente);
+      printf("Quociente:%f.2f\n quociente");
 
       printf("novo commit")
 
-      float população1=12325000;
+      float população1=2325000;
       float população2=6748000;
- 
-      float área1 =1521.11;
-      float área2 =1200.25;
+ 1
+      float area1 = 1521.11 ;
+      float area2 = 1200.25 ;
       
       float pib1=699.28;
       float pib2=300.50;
