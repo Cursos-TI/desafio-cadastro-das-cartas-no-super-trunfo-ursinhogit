@@ -7,6 +7,8 @@ int main(){
     printf("NumeroPreciso(double): %15f \n", numeroPreciso);
     printf("NumeroMuitoPreciso (long double): %21lf \n", numeroMuitoPreciso);
 
+     if
+
     return 0;
 
 
