@@ -1,0 +1,42 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+int main(){
+    char carta1, carta2;
+    int populacao1,populacao2;
+    int jogador1,jogador2,jogador3;
+
+    srand(time(0));
+    jogador1 = 1 defesa1;
+    jogador2 = 0 desfesa2;
+    jogador3 = 0 recuo3;
+
+    printf("Bem vindo ao jogo!");
+    printf(voce deve escolher um jogador\n");
+    printf("jogador1 \n");
+    printf("jogador2 \n");
+    printf("jogador3 \n");
+
+    printf("Se a população1>população2,digite:jogador1 ganhou!\n");
+    senão;
+    printf("digite:Infelizmente você perdeu!\n");
+    tambem;
+    printf("empatou!\n);
+
+    
+    
+    
+
+     
+
+
+
+
+
+
+
+}
+
+
+
